@@ -32,4 +32,11 @@ Lab exercises: installing R/ Rstudio, beginning to work with data: filtering, di
 
 
 
+**_September 10th (Friday):_**
+September 10th (Friday):
+Install R Studio and relavent packages. 
+Exploring Datasets/ Data Munging, continue working on the EPI dataset from the course repository.
+Data Frames in R
 
+Lab1 Slides: 
+Data_Analytics2021Fall_group1_Lab1.pdf  [Please find the attached]
