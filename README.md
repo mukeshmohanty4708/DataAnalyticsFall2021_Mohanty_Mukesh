@@ -40,3 +40,29 @@ Data Frames in R
 
 Lab1 Slides: 
 Data_Analytics2021Fall_group1_Lab1.pdf  [Please find the attached]
+
+
+**September 14th (Tuesday):** 
+[1] Lecture_Part1_Module3a: Data and Information Resources, Role of Hypothesis, Exploration, and Distributions: 
+Data_Analytics2021Fall_group1_module3a_explore_data.pdf  Click for more options 
+ 
+[2] Lecture_Part2_Module3b: : Exploratory Data Analysis (EDA):
+Data_Analytics2021Fall_Modeule3b_ExploratoryDataAanalytics.pdf  Click for more options 
+ 
+Read Material for this week:
+[1] https://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test         
+[2]  http://www.sthda.com/english/wiki/normality-test-in-r         
+[3] https://www.dummies.com/programming/r/how-to-test-data-    normality-in-a-formal-way-in-r/         
+[4] https://emilkirkegaard.dk/en/?p=4452 
+Useful Resources
+Introduction to dplyr:     https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html
+How to Read and Use Histograms in R:   https://flowingdata.com/2014/02/27/how-to-read-histograms-and-use-them-in-r/
+Combining Plots:     https://www.statmethods.net/advgraphs/layout.html
+R for Data Science:     https://proquestcombo.safaribooksonline.com/9781491910382
+r4ds:    https://r4ds.had.co.nz/
+ggplot rdocumentation:     https://www.rdocumentation.org/packages/ggplot2/versions/3.1.0/topics/ggplot
+
+09/17/2021 (Friday): Introduction to Analytic Methods, Types of Data Mining for Analytics & Introduction to Group 2
+Lab: 
+
+Data_Analytics2021Spring_group1_Lab1.pptx
